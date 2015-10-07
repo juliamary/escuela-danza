@@ -1,0 +1,86 @@
+/* Inserta tu codigo aqui */
+html,body{
+	width: 100%;
+	height: 100%;
+}
+
+body {
+  overflow-x:hidden; 
+  background-color: rgb(25, 41, 82);
+}
+
+a{
+  text-decoration: none;
+  color: #AFABAB;
+
+}
+
+.sobre-nosotros{
+	background-image: url(../img/dance_7.jpg);
+    height: 404px;
+    text-align: center;
+    padding: 9% 0
+}
+
+.div-tranparente{
+	width: 40%;
+    display: inline-block;
+    background-color: rgba(17, 17, 17, 0.42);
+    color: #E5E1E1;
+    padding: 5% 4%;
+    text-align: center;
+}
+
+.fondo-pilars{
+	background-image: url(../img/cubes.png);
+    height: 330px;
+    padding: 4% 7%;
+    text-align: center;
+    color:rgba(157, 153, 153, 0.93);
+}
+
+.pilar{
+    width: 77%;
+    text-align: center;
+    height: 160px;
+    padding-top: 7%;
+    display: inline-block;
+}
+
+.pilar h1{
+padding-bottom: 8%;
+    border-bottom: 2px solid rgba(157, 153, 153, 0.93);
+
+}
+
+.pilar p{
+padding-top: 10%;
+}
+
+.instructores{
+	padding: 5% 12%;
+	background-color: white;
+}
+
+.fotografias{
+	margin-top: 34%;
+}
+.fotografias img{
+	width: 100%;
+	height: 178px;
+}
+
+.fotografias h5{
+	padding-top: 5%;
+}
+
+.fotografias p{
+	padding-top: 8%;
+}
+
+.frase-inspiradora{
+	background-image: url(../img/cubes.png);
+	padding: 4% 17%;
+    text-align: center;
+    font-style: italic;
+}

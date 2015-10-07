@@ -1,0 +1,155 @@
+html,body{
+	width: 100%;
+	height: 100%;
+}
+
+body {
+  overflow-x:hidden; 
+  background-color: rgb(25, 41, 82);
+}
+
+a{
+  text-decoration: none;
+  color: #AFABAB;
+
+}
+
+.studio{
+	background-image: url(../img/dance_1.jpg);
+	height: 405px;    
+}
+
+.cont-studio{
+    width: 25%;
+    display: inline-block;
+    padding: 5% 0 4% 5%;
+    color: #AFABAB;
+}
+
+.cont-studio h1{
+padding-bottom: 7%;
+    font-size: 3.5em;
+}
+
+.cont-studio p{
+	width: 197px;
+    display: inline-block;
+    padding-bottom: 34px;
+    line-height: 23px;
+}
+
+.buttom-primary{             
+    background-color: #0B0B24;
+    padding: 5% 15%;
+    display: inline-block;
+    font-size: 0.7em;
+}
+
+
+
+.oferta-de-clases{
+	background-image: url(../img/textura_2.jpg);
+    padding: 4% 18%;
+	
+}
+
+.juilliart{
+
+}
+
+.icon{
+    display: inline-block;
+    width: 96%;
+    padding: 0% 40%;
+}
+
+.icon img{
+	width: 100%;
+}
+
+.buttom-second{
+    background-color: #0B0B24;
+    padding: 3% 9%;
+    display: inline-block;
+    font-size: 0.7em;
+    border-radius: 15px;
+}
+
+.banner-instructores .instructor-4{
+	background-image: url(../img/instructor_4.jpg);
+   /* padding: 4% 18%;*/
+   height: 315px;
+   width: 100%;
+   background-size: 100%;
+   display: inline-block;
+   background-repeat: no-repeat;
+}
+
+.banner-instructores .profesor-9{
+	background-image: url(../img/profesor_9.jpg);
+    height: 315px;
+    width: 100%;
+    float: right;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.buttom-tercero{
+    background-color: #0B0B24;
+    padding: 2% 13%;
+   display: inline-block;
+    font-size: 1em;
+    position: absolute;
+    top: 238px;
+    left: 32%;
+    
+}
+
+.images{
+	position: relative;
+	border-top: 4px solid rgb(25, 41, 82);
+}
+
+.frase-laDanza{         
+    padding: 4% 17%;
+    text-align: center;
+    font-style: italic;
+}
+
+.ubicacion{
+	background-color: rgb(25, 41, 82);
+	width: 100%;
+	padding: 7% 5%;
+	color: #AFABAB
+}
+
+
+
+.text{
+    width: 100%;
+    display: inline-block;
+    line-height: 25px;
+    padding-right: 30%
+}
+
+
+.visitanos{
+    width: 100%;
+    line-height: 27px;
+    display: inline-block;
+    padding: 5% 77% 10% 0%;
+
+}
+
+.imagen-mapa{
+    height: 364px;
+    padding-right: 20%;
+}
+
+.imagen-mapa img{
+	height: 100%;
+    width: 100%;
+}
+
+
+
